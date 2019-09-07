@@ -6,7 +6,7 @@ public class Demo01 {
         int a=10;
         int b=100;
 
-        System.out.println(a);
+        System.out.println(a+b);
     }
 
 
